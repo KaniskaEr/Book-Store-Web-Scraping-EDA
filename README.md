@@ -25,5 +25,5 @@ This project involves web scraping book data from [Books to Scrape](http://books
 
 ---
 
-## 📁 File Structure
+
 
