@@ -1,5 +1,3 @@
-# Build_Week_Project
-
 # 📚 Book Store Web Scraping & EDA Project
 
 This project involves web scraping book data from [Books to Scrape](http://books.toscrape.com), performing exploratory data analysis (EDA), and visualizing insights using Python.
